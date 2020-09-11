@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Regular/MyriadPro-Regular.eot');
+    src: url('../fonts/MyriadPro-Regular/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MyriadPro-Regular/MyriadPro-Regular.woff2') format('woff2'),
+        url('../fonts/MyriadPro-Regular/MyriadPro-Regular.woff') format('woff'),
+        url('../fonts/MyriadPro-Regular/MyriadPro-Regular.ttf') format('truetype'),
+        url('../fonts/MyriadPro-Regular/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato/Lato-Light.eot');
+    src: url('../fonts/Lato/Lato-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato/Lato-Light.woff2') format('woff2'),
+        url('../fonts/Lato/Lato-Light.woff') format('woff'),
+        url('../fonts/Lato/Lato-Light.ttf') format('truetype'),
+        url('../fonts/Lato/Lato-Light.svg#Lato-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins/Poppins-Medium.eot');
+    src: url('../fonts/Poppins/Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins/Poppins-Medium.woff2') format('woff2'),
+        url('../fonts/Poppins/Poppins-Medium.woff') format('woff'),
+        url('../fonts/Poppins/Poppins-Medium.ttf') format('truetype'),
+        url('../fonts/Poppins/Poppins-Medium.svg#Poppins-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../fonts/DancingScript-Bold/DancingScript-Bold.eot');
+    src: url('../fonts/DancingScript-Bold/DancingScript-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DancingScript-Bold/DancingScript-Bold.woff2') format('woff2'),
+        url('../fonts/DancingScript-Bold/DancingScript-Bold.woff') format('woff'),
+        url('../fonts/DancingScript-Bold/DancingScript-Bold.ttf') format('truetype'),
+        url('../fonts/DancingScript-Bold/DancingScript-Bold.svg#DancingScript-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Lato-Bold';
+    src: url('../fonts/Lato-Bold/Lato-Bold.eot');
+    src: url('../fonts/Lato-Bold/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Bold/Lato-Bold.woff2') format('woff2'),
+        url('../fonts/Lato-Bold/Lato-Bold.woff') format('woff'),
+        url('../fonts/Lato-Bold/Lato-Bold.ttf') format('truetype'),
+        url('../fonts/Lato-Bold/Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+

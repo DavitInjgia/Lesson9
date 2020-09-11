@@ -1,0 +1,66 @@
+
+html,body{
+	width: 100%;
+	height: 100%;
+}
+.image_class{
+	background-image: url("../img/Group 5.jpg");
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+.lorem{
+	position: absolute;
+	color: white;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size: 100px;
+	font-family: 'Lato';
+}
+.flex_container{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.nav-ul{
+	margin-top: 73px;
+	display: flex;
+}
+.nav-a{
+	color: white;
+	font-family: 'Poppins';
+	font-size: 14px;
+	margin-left: 30px;
+	text-transform: uppercase;
+}
+.landing{
+	font-family: 'Dancing Script';
+	font-size: 28px;
+	color: #D9F0FF;
+	margin-top: 73px;
+}
+.borders_class{
+	position: absolute;
+	top: 65%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	border-radius: 45px;
+  	background: #325DFF;
+  	border-color: #707070;
+  	padding: 20px;
+  	width: 307px;
+  	height: 72px;
+}
+.borders_class p{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-family: 'Lato-Bold';
+	font-size: 14px;
+	color: white;
+	text-transform: uppercase;
+}
